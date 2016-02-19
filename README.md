@@ -62,6 +62,4 @@ Methods are:
 
 #Credits
 
-Created by Mark Breukelman (Breuwedestro)
-
-Contact: breuwedestro@gmail.com
+Created by m0x23
